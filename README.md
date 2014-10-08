@@ -1,4 +1,5 @@
 ### Loom Native SDK - Mobile App and Game Development
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/fireyang/LoomSDK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Welcome to the Loom Native SDK!  This repository contains the full source code of the Loom mobile technology.  
 
